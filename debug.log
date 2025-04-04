@@ -1,0 +1,56 @@
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Начало тестирования NotDebugKode...
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование generateRandomArray(10)...
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Массив успешно сгенерирован.
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование generateRandomArray(-1)... (ожидается ошибка)
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Ожидаемая ошибка: -1
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование printArray...
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Массив успешно выведен.
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование printArray(null)... (ожидается ошибка)
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Ожидаемая ошибка: Cannot read the array length because "array" is null
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование findMaxSquareSum...
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+SEVERE: Ошибка в findMaxSquareSum: Index 10 out of bounds for length 10
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование findMaxSquareSum({5})... (ожидается ошибка)
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Ожидаемая ошибка: Index 1 out of bounds for length 1
+апр. 03, 2025 4:56:17 PM org.example.DebugMaria main
+INFO: Тестирование завершено.
+апр. 04, 2025 1:33:42 PM org.example.DebugMaria main
+INFO: Начало тестирования NotDebugKode...
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование generateRandomArray(10)...
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Массив успешно сгенерирован.
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование generateRandomArray(-1)... (ожидается ошибка)
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Ожидаемая ошибка: -1
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование printArray...
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Массив успешно выведен.
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование printArray(null)... (ожидается ошибка)
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Ожидаемая ошибка: Cannot read the array length because "array" is null
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование findMaxSquareSum...
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+SEVERE: Ошибка в findMaxSquareSum: Index 10 out of bounds for length 10
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование findMaxSquareSum({5})... (ожидается ошибка)
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Ожидаемая ошибка: Index 1 out of bounds for length 1
+апр. 04, 2025 1:33:43 PM org.example.DebugMaria main
+INFO: Тестирование завершено.
