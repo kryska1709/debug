@@ -9,7 +9,7 @@ class DebugMaria {
     static {
         try {
             // Создание обработчика файлового лога с дописыванием в файл
-            FileHandler fileHandler = new FileHandler("debug.log", true);//если файл существует то логи записываются внизу этого файла
+            FileHandler fileHandler = new FileHandler("debug.log", false);
             fileHandler.setFormatter(new SimpleFormatter()); // вывод логов текстом
             logger.addHandler(fileHandler); // Добавление обработчика к логгеру
             logger.setLevel(Level.ALL); // обработка всех уровней логов
